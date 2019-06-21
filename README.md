@@ -22,7 +22,7 @@ Language | HS Type | HS Subtype | unique HS ID | CN Count | augmentation type (P
 (P1: paraphrase 1 / P2: paraphrase 2 / T1: translation 1)
 
 ## References
-For further details please find reference in the following:
+You can find further details in the paper:
 
 Y. Chung, E. Kuzmenko, S. S. Tekiroglu, M. Guerini, "CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech", Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
 
