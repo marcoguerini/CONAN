@@ -8,7 +8,7 @@ The dataset consists of 4,078 pairs over the 3 languages. Together with the data
 
 
 ## File description
-In the json file, each line starts with an ID, followed by a pair of hate speech/counter-narrative and the metadata (hate speech type, hate speech sub-topic, counter-narrative type, and demographics).
+In the [json file] (https://github.com/marcoguerini/CONAN/blob/master/CONAN.json), each line starts with an ID, followed by a pair of hate speech/counter-narrative and the metadata (hate speech type, hate speech sub-topic, counter-narrative type, and demographics).
 
 ID indicates language, hate speech type, hate speech sub-topic, unique hate speech count, counter-narrative count, and augmentation type (if any).
 
