@@ -10,7 +10,7 @@ The dataset consists of 4,078 pairs over the 3 languages. Together with the data
 ## File description
 In the json file, each line starts with an ID, followed by a pair of hate speech/counter-narrative and the metadata (demographics of the counter-narrative).
 
-ID indicates languages, hate speech type, hate speech subtype, unique hate speech count, counter-narrative count, and augmentation type (if any).
+ID indicates language, hate speech type, hate speech subtype, unique hate speech count, counter-narrative count, and augmentation type (if any).
 
 ## ID example: 
 FRT1ST0014HS0015CN001238T1
@@ -21,7 +21,7 @@ Language | HS Type | HS Subtype | unique HS ID | CN Count | augmentation type (P
 
 (P1: paraphrase 1 / P2: paraphrase 2 / T1: translation 1)
 
-## References
+## Reference
 You can find further details in the paper:
 
 Y. Chung, E. Kuzmenko, S. S. Tekiroglu, M. Guerini, "CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech", Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
