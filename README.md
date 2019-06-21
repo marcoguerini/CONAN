@@ -13,6 +13,8 @@ In the json file, each line starts with an ID, followed by a pair of hate speech
 ID indicates languages, hate speech type, hate speech subtype, unique hate speech count, counter-narrative count, and augmentation type (if any).
 
 ## ID example: 
+FRT1ST0014HS0015CN001238T1
+
 FR|T1|ST0014|HS0015|CN001238|T1
 
 Language | HS Type | HS Subtype | unique HS ID | CN Count | augmentation type (P1/P2/T1)
