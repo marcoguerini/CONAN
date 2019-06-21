@@ -23,7 +23,7 @@ T1 : translation 1
 
 
 # References
-For further details please find reference in the following BibTex entry:
+For further details please find reference in the following:
 
 Y. Chung, E. Kuzmenko, S. S. Tekiroglu, M. Guerini, "CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech", Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
 
