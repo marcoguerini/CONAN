@@ -4,7 +4,7 @@ CONAN is a multilingual and expert-based dataset of hate speech/counter-narrativ
 
 
 ## CONAN description
-The dataset consists of 4078 pairs over the 3 languages. Together with the data we also provid 3 types of metadata: expert demographics, hate speech sub-topic and counter-narrative type. The dataset is augmented the dataset through translation (from Italian/French to English) and paraphrasing which brought the total number of pairs to more than 15 thousand. 
+The dataset consists of 4078 pairs over the 3 languages. Together with the data we also provid 3 types of metadata: expert demographics, hate speech sub-topic and counter-narrative type. The dataset is augmented through translation (from Italian/French to English) and paraphrasing which brought the total number of pairs to more than 15 thousand. 
 
 
 ## File description
