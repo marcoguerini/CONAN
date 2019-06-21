@@ -19,12 +19,7 @@ FR|T1|ST0014|HS0015|CN001238|T1
 
 Language | HS Type | HS Subtype | unique HS ID | CN Count | augmentation type (P1/P2/T1)
 
-P1 : paraphrase 1 
-
-P2 : paraphrase 2
-
-T1 : translation 1
-
+(P1 : paraphrase 1 / P2 : paraphrase 2 / T1 : translation 1)
 
 ## References
 For further details please find reference in the following:
