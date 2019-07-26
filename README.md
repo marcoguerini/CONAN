@@ -27,3 +27,5 @@ You can find further details in the paper:
 Y. Chung, E. Kuzmenko, S. S. Tekiroglu, M. Guerini, "CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech", Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019.
 
 ## License
+This resource can be used for research purposes. Please cite the 
+publications above if you use it.
