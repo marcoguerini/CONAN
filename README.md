@@ -17,7 +17,7 @@ The dataset consists of 4,078 pairs over the 3 languages. Together with the data
 (\*)The original number was 15.024 but after post-hoc analysis, we deleted 9 original pairs (36 pairs including augmented ones) because they did not meet the required standard. 
 
 ## File description
-In the file [CONAN.json](https://github.com/marcoguerini/CONAN/blob/master/CONAN.json), each line starts with an ID, followed by a pair of hate speech/counter-narrative and the metadata (hate speech type, hate speech sub-topic, counter-narrative type, and demographics).
+Under the folder ```CONAN``` we provide the dataset in json and csv formats. In the files each entry starts with an ID, followed by a pair of hate speech/counter-narrative and the metadata (hate speech type, hate speech sub-topic, counter-narrative type, and demographics).
 
 ID indicates language, hate speech type, hate speech sub-topic, unique hate speech count, counter-narrative count, and augmentation type (if any).
 
@@ -57,7 +57,7 @@ The dataset consists of 195 HS-CN pairs covering multiple hate targets (islamoph
 The counter narratives are written by an expert who is tasked with composing a suitable CN response to a given hate speech using the corresponding knowledge as much as possible.
 
 ## File description
-In the file [multi_target_KN_grounded_CN.csv](https://github.com/marcoguerini/CONAN/blob/master/multitarget_KN_grounded_CN.csv), each entry has four fields: hate speech, knowledge sentences, counter narrative, and target. 
+Under the folder ```multitarget_KN_grounded_CN``` we provide the data in json and csv formats. In the files, each entry has four fields: hate speech, knowledge sentences, counter narrative, and target. 
 
 ## Citation
 You can find further details in our paper:
