@@ -57,7 +57,7 @@ The dataset consists of 195 HS-CN pairs covering multiple hate targets (islamoph
 The counter narratives are written by an expert who is tasked with composing a suitable CN response to a given hate speech using the corresponding knowledge as much as possible.
 
 ## File description
-In the file [multi_target_KN_grounded_CN.csv](), each entry has four fields: hate speech, knowledge sentences, counter narrative, and target. 
+In the file [multi_target_KN_grounded_CN.csv](https://github.com/marcoguerini/CONAN/blob/master/multitarget_KN_grounded_CN.csv), each entry has four fields: hate speech, knowledge sentences, counter narrative, and target. 
 
 ## Citation
 You can find further details in our paper:
