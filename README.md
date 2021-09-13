@@ -48,37 +48,6 @@ You can find further details in our paper:
     pages = "2819--2829"
 }
 ```
-
-# Knowledge-grounded hate countering dataset
-
-## Dataset description
-
-The dataset consists of 195 HS-CN pairs covering multiple hate targets (islamophobia, misogyny, antisemitism, racism, and homophobia), provided along with the relevant knowledge automatically retrieved.
-
-The counter narratives are written by an expert who is tasked with composing a suitable CN response to a given hate speech using the corresponding knowledge as much as possible.
-
-## File description
-Under the folder ```multitarget_KN_grounded_CN``` we provide the data in json and csv format. In the files, each entry has four fields: hate speech, knowledge sentences, counter narrative, and target. 
-
-## Citation
-You can find further details in our paper:
-
-Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini. 2021. <em>Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.</em> In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics: Findings.
-
-
-```bibtex
-@inproceedings{chung-etal-2021-knowledge,
-    title = "{Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech",
-    author = "Chung, Yi-Ling and Tekiroğlu, Serra Sinem and Guerini, Marco",
-    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics",
-    month = aug,
-    year = "2021",
-    address = "Online",
-    publisher = "Association for Computational Linguistics",
-}
-```
-
-
 <!---
  # Multi-hate-target dataset using Human-in-the-Loop
 -->
@@ -110,6 +79,36 @@ Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, Marco Guerini <em>Hum
   publisher = "Association for Computational Linguistics",
 }
 ```
+
+# Knowledge-grounded hate countering dataset
+
+## Dataset description
+
+The dataset consists of 195 HS-CN pairs covering multiple hate targets (islamophobia, misogyny, antisemitism, racism, and homophobia), provided along with the relevant knowledge automatically retrieved.
+
+The counter narratives are written by an expert who is tasked with composing a suitable CN response to a given hate speech using the corresponding knowledge as much as possible.
+
+## File description
+Under the folder ```multitarget_KN_grounded_CN``` we provide the data in json and csv format. In the files, each entry has four fields: hate speech, knowledge sentences, counter narrative, and target. 
+
+## Citation
+You can find further details in our paper:
+
+Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini. 2021. <em>Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.</em> In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics: Findings.
+
+
+```bibtex
+@inproceedings{chung-etal-2021-knowledge,
+    title = "{Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech",
+    author = "Chung, Yi-Ling and Tekiroğlu, Serra Sinem and Guerini, Marco",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+}
+```
+
 
 ## License
 These resources can be used for research purposes. Please cite the corresponding publication if you use it.
