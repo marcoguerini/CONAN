@@ -49,7 +49,7 @@ You can find further details in our paper:
 }
 ```
 
-# Multi-hate-target knowledge-grounded hate countering dataset
+# Knowledge-grounded hate countering dataset
 
 ## Dataset description
 
