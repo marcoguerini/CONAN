@@ -79,7 +79,8 @@ Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini. 2021. <em>Towards Know
 ```
 
 
-<!-- # Multi-hate-target dataset using Human-in-the-Loop --!>
+< # Multi-hate-target dataset using Human-in-the-Loop >
+
 # Multi-Target Counter Narrative Dataset to Fight Online Hate Speech (Multitarget_CONAN)
 
 ## Dataset description
