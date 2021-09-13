@@ -66,7 +66,6 @@ You can find further details in our paper:
 Yi-Ling Chung, Serra Sinem Tekiroglu, and Marco Guerini. 2021. <em>Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.</em> In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics: Findings.
 
 
-<!---
 ```bibtex
 @inproceedings{chung-etal-2021-knowledge,
     title = "{Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech",
@@ -78,7 +77,6 @@ Yi-Ling Chung, Serra Sinem Tekiroglu, and Marco Guerini. 2021. <em>Towards Knowl
     publisher = "Association for Computational Linguistics",
 }
 ```
--->
 
 
 # Multi-hate-target dataset using Human-in-the-Loop
@@ -95,6 +93,17 @@ Coming soon...
 You can find further details in our paper:
 
 Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiro glu, Marco Guerini <em>Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech</em> In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics: Long Papers.
+
+```bibtex
+@inproceedings{fantonhuman,
+  title={Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech},
+  author={Fanton, Margherita and Bonaldi, Helena and Tekiroglu, Serra Sinem and Guerini, Marco},
+  booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics",
+  month = aug,
+  year = "2021",
+  publisher = "Association for Computational Linguistics",
+}
+```
 
 ## License
 These resources can be used for research purposes. Please cite the corresponding publication if you use it.
