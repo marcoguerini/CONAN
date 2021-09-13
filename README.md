@@ -52,7 +52,7 @@ You can find further details in our paper:
  # Multi-hate-target dataset using Human-in-the-Loop
 -->
 
-# Multi-Target Hate Countering Dataset (Multitarget_CONAN)
+# Multi-Target Hate Countering Dataset (Multitarget-CONAN)
 
 ## Dataset description
 
@@ -62,7 +62,7 @@ The dataset is constructed using a novel human-in-the-loop data collection metho
 
 ## File description
 
-Under the folder ```Multitarget_CONAN``` we provide the data in json, xlsx, and csv format. Each entry has a unique index and has four fields: HATE_SPEECH, COUNTER_NARRATIVE, VERSION, and TARGET. 
+Under the folder ```Multitarget-CONAN``` we provide the data in json, xlsx, and csv format. Each entry has a unique index and has four fields: HATE_SPEECH, COUNTER_NARRATIVE, VERSION, and TARGET. 
 
 ## Citation
 You can find further details in our paper:
