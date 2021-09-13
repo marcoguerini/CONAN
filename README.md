@@ -83,11 +83,13 @@ Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini. 2021. <em>Towards Know
 
 ## Dataset description
 
-The dataset consists of 5003 HS-CN pairs covering multiple hate targets. 
+The dataset consists of 5003 Hate Speech and Counter Narrative pairs covering the multiple hate targets, including DISABLED, JEWS, LGBT+, MIGRANTS, MUSLIMS, PEOPLE OF COLOR (POC), WOMEN. Each HS-CN pair is provided along with its loop information (VERSION), and its target (TARGET). 
+
+The dataset is constructed using a novel human-in-the-loop data collection methodology in which a generative language model is refined iteratively by using its own data from the previous loops to generate new training samples that experts review and/or post-edit. Our experiments comprised several loops (versions) including dynamic variations. Multitarget_CONAN is the only expert-based multi-target HS/CN dataset available to the community.
 
 ## File description
 
-Coming soon...
+Under the folder ```Multitarget_CONAN``` we provide the data in json, xlsx, and csv format. Each entry has a unique index and has four fields: HATE_SPEECH, COUNTER_NARRATIVE, VERSION, and TARGET. 
 
 ## Citation
 You can find further details in our paper:
