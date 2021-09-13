@@ -12,7 +12,7 @@ This repository contains hate countering datasets of:
 
 CONAN is a multilingual and expert-based dataset of hate speech/counter-narrative pairs for English, French and Italian.
 
-## CONAN description
+## Dataset description
 The dataset consists of 4,078 pairs over the 3 languages. Together with the data we also provide 3 types of metadata: expert demographics, hate speech sub-topic and counter-narrative type. The dataset is augmented through translation (from Italian/French to English) and paraphrasing, which brought the total number of pairs to 14.988. 
 
 (\*)The original number was 15.024 but after post-hoc analysis, we deleted 9 original pairs (36 pairs including augmented ones) because they did not meet the required standard. 
