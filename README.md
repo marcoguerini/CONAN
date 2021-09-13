@@ -2,8 +2,8 @@
 This repository contains hate countering datasets of:
 
 - [CONAN](#CONAN)
-- [Multi-hate-target knowledge-grounded hate countering dataset](#Multi-hate-target-knowledge-grounded-hate-countering-dataset)
-- [Multi-hate-target dataset using Human-in-the-Loop](#Multi-hate-target dataset using Human-in-the-Loop)
+- [Multitarget CONAN](#Multitarget-CONAN)
+- [Knowledge-grounded hate countering dataset](#Knowledge-grounded-hate-countering-dataset)
 
 
 # CONAN
@@ -52,7 +52,7 @@ You can find further details in our paper:
  # Multi-hate-target dataset using Human-in-the-Loop
 -->
 
-# Multi-Target Hate Countering Dataset (Multitarget-CONAN)
+# Multitarget-CONAN
 
 ## Dataset description
 
