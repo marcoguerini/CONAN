@@ -95,9 +95,9 @@ You can find further details in our paper:
 Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, Marco Guerini <em>Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech</em> In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics: Long Papers.
 
 ```bibtex
-@inproceedings{fantonhuman,
-  title={Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech},
-  author={Fanton, Margherita and Bonaldi, Helena and Tekiroğlu, Serra Sinem and Guerini, Marco},
+@inproceedings{fanton-2021-human,
+  title="{Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech}",
+  author="{Fanton, Margherita and Bonaldi, Helena and Tekiroğlu, Serra Sinem and Guerini, Marco}",
   booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics",
   month = aug,
   year = "2021",
