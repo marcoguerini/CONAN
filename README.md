@@ -1,4 +1,4 @@
-# Hate countering datasets
+# Hate countering (counter speech / counter narrative ) datasets
 This repository contains hate countering datasets of:
 
 - [CONAN](#CONAN)
