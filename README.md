@@ -54,6 +54,8 @@ You can find further details in our paper:
 
 # Multitarget-CONAN
 
+## Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech
+
 ## Dataset description
 
 The dataset consists of 5003 Hate Speech and Counter Narrative pairs covering the multiple hate targets, including DISABLED, JEWS, LGBT+, MIGRANTS, MUSLIMS, PEOPLE OF COLOR (POC), WOMEN. Each HS-CN pair is provided along with its loop information (VERSION), and its target (TARGET). 
