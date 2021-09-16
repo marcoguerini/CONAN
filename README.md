@@ -32,6 +32,8 @@ Language | HS Type | HS SubTopic | HS ID | CN Count | augmentation type (P1/P2/T
 ## Citation
 You can find further details in our paper:
 
+Yi-Ling Chung, Elizaveta Kuzmenko, Serra Sinem Tekiroğlu, and Marco Guerini. 2019. <em>CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech.</em> In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: Long Papers.
+
 ```bibtex
 @inproceedings{chung-etal-2019-conan,
     title = "{CONAN} - {CO}unter {NA}rratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech",
