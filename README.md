@@ -8,9 +8,7 @@ This repository contains hate countering datasets of:
 
 # CONAN
 
-## COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech
-
-CONAN is a multilingual and expert-based dataset of hate speech/counter-narrative pairs for English, French and Italian.
+CONAN is a multilingual and expert-based dataset of hate speech/counter-narrative pairs for English, French and Italian. 
 
 ## Dataset description
 The dataset consists of 4,078 pairs over the 3 languages. Together with the data we also provide 3 types of metadata: expert demographics, hate speech sub-topic and counter-narrative type. The dataset is augmented through translation (from Italian/French to English) and paraphrasing, which brought the total number of pairs to 14.988. 
@@ -54,7 +52,7 @@ You can find further details in our paper:
 
 # Multitarget-CONAN
 
-## Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech
+Multi-Target CONAN is a dataset of hate speech/counter-narrative pairs for English comprising several hate targets, collected using a Human-in-the-Loop approach. 
 
 ## Dataset description
 
@@ -83,6 +81,8 @@ Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, Marco Guerini <em>Hum
 ```
 
 # Knowledge-grounded hate countering dataset
+
+This small dataset contains hate speech/counter-narrative pairs coupled with the backgroud knowledge used to construct the counter-narrative. 
 
 ## Dataset description
 
