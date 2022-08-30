@@ -95,6 +95,10 @@ The counter narratives are written by an expert who is tasked with composing a s
 ## File description
 Under the folder ```multitarget_KN_grounded_CN``` we provide the data in json and csv format. In the files, each entry has four fields: hate speech, knowledge sentences, counter narrative, and target. 
 
+## Code
+
+If you want to replicate the pipeline described in the paper you can find the code here: https://github.com/yilingchung/Towards_KN_CN_Generation
+
 ## Citation
 You can find further details in our paper:
 
