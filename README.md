@@ -3,7 +3,7 @@ This page contains several curated datasets for fighting online hate speech (HS)
 
 | Dataset                                    |                                  Content                                 | Year | Paper                                             |
 |--------------------------------------------|----------------------------------------------------------------------|--------------|---------------------------------------------------|
-| [DIALOCONAN](#dialoconan)                                    | A multi-turn HS/CN dialogue dataset.                                   | 2022         | tba                                               |
+| [DIALOCONAN](#dialoconan)                                    | A multi-turn HS/CN dialogue dataset.                                   | 2022         | https://arxiv.org/pdf/2211.03433.pdf                                               |
 | [Multitarget CONAN](#multitarget-conan)                          | HS/CN pairs dataset covering multiple targets of hate.              | 2021         | https://aclanthology.org/2021.acl-long.250.pdf    |
 | [CONAN](#conan)                                      | Multilingual expert-based HS/CN pairs dataset on Islamophobia. | 2019         | https://aclanthology.org/P19-1271.pdf             |
 | [Knowledge-grounded hate countering dataset](#knowledge-grounded-hate-countering-dataset) | HS/CN pairs with the background knowledge corresponding to the CN.     | 2021         | https://aclanthology.org/2021.findings-acl.79.pdf |
@@ -24,11 +24,14 @@ In the folder `DIALOCONAN` we provide the data in json and csv format. Each entr
 ### Citation
 Further details can be found in our paper (to appear in Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing): 
 
+Helena Bonaldi, Sara Dellantonio, Serra Sinem Tekiroglu, and Marco Guerini. 2022. <em>Human-Machine Collaboration Approaches to Build a Dialogue Dataset
+for Hate Speech Countering.</em> arXiv preprint arXiv:2211.03433
+
 ```bibtex
-@article{bonaldi-2022-dialoconan,
+@article{bonaldi2022dialoconan,
   title="{Human-Machine Collaboration Approaches to Build a Dialogue Dataset for Hate Speech Countering}",
   author="{Bonaldi, Helena and Dellantonio, Sara and Tekiroğlu, Serra Sinem and Guerini, Marco}",
-  journal="{arXiv preprint}".
+  journal="{arXiv preprint arXiv:2211.03433}",
   year="{2022}"
 }
 ```
