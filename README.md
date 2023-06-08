@@ -3,7 +3,7 @@ This page contains several curated datasets for fighting online hate speech (HS)
 
 | Dataset                                    |                                  Content                                 | Year | Paper                                             |
 |--------------------------------------------|----------------------------------------------------------------------|--------------|---------------------------------------------------|
-| [DIALOCONAN](#dialoconan)                                    | A multi-turn HS/CN dialogue dataset.                                   | 2022         | https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.549.pdf                                               |
+| [DIALOCONAN](#dialoconan)                                    | A multi-turn HS/CN dialogue dataset.                                   | 2022         | https://aclanthology.org/2022.emnlp-main.549.pdf                                               |
 | [Multitarget CONAN](#multitarget-conan)                          | HS/CN pairs dataset covering multiple targets of hate.              | 2021         | https://aclanthology.org/2021.acl-long.250.pdf    |
 | [CONAN](#conan)                                      | Multilingual expert-based HS/CN pairs dataset on Islamophobia. | 2019         | https://aclanthology.org/P19-1271.pdf             |
 | [Knowledge-grounded hate countering dataset](#knowledge-grounded-hate-countering-dataset) | HS/CN pairs with the background knowledge corresponding to the CN.     | 2021         | https://aclanthology.org/2021.findings-acl.79.pdf |
