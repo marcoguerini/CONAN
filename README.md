@@ -145,7 +145,7 @@ Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini. 2021. <em>Towards Know
 
 ```bibtex
 @inproceedings{chung-etal-2021-knowledge,
-    title = "{Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech",
+    title = "Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech",
     author = "Chung, Yi-Ling and Tekiroğlu, Serra Sinem and Guerini, Marco",
     booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics",
     month = aug,
